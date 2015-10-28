@@ -1,0 +1,12 @@
+{
+  "name": "distelli-table",
+  "version": "0.0.1",
+
+  "devDependencies": {
+    "http-server": "0.8.5"
+  },
+
+  "scripts": {
+    "start": "http-server src"
+  }
+}
